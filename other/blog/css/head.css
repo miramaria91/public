@@ -1,0 +1,38 @@
+body {
+    font-family: "RobotoRegular";
+    
+}
+.header_article {
+    font-size: 25px;
+    margin-top: 15px;
+    
+}
+.date {
+    font-size: 15px;
+    color: grey;
+    
+}
+.text {
+    font-size: 15px;
+    margin-top: 15px;
+}
+.archive {
+    font-size: 20px;
+    float: right; 
+}
+
+
+p {
+    font-size: 20px;
+}
+
+.newarticle {
+    margin-top: 40px;
+}
+.button {
+    margin-top: 20px;
+}
+
+a {
+    color:black;
+}
